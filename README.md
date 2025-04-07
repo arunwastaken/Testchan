@@ -15,7 +15,7 @@ Follow these steps to set up `chitchan` on **Windows**:
 
 ```
 git clone https://github.com/arunwastaken/Testchan.git
-cd chitchan
+cd Testchan
 ```
 ### 2. Install SQLite3 
 
